@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Dialogue_1>
+  <u_story_1>
+    <story>
+      <Text>겨울은 밤이 이르다.</Text>
+      <Setting Layout="Text" Character="16" Map="Area_DarkStreet1" BGM="BGM_1"/>
+    </story>
+    <story>
+      <Text>해가 일찌감치 져버리면 하늘은 금방 어두워진다.</Text>
+      <Setting Layout="Text" Character="16" Map="Area_DarkStreet1" BGM="BGM_1"/>
+    </story>
+    <story>
+      <Text>사람들도 하나둘씩 돌아가고, 상점가도 그에 맞춰 평소보다 빨리 문을 닫는다. </Text>
+      <Setting Layout="Text" Character="16" Map="Area_DarkStreet1" BGM="BGM_1"/>
+    </story>
+  </u_story_1>
+</Dialogue_1>
