@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Talk>
+  <u_Talk_1>
+    <story>
+      <Text>잠에서 깨자, 별 하나 없는 서울의 밤하늘이 보였다.</Text>
+      <Setting Type="0,1,2" Character="캐릭터 아이디" Room="0그룹톡, 1채아람, 2한소원, 3 고은혜" Story ID ="1w_main_story_1"/>
+    </story>
+  </u_Talk_1>
+</Talk>
