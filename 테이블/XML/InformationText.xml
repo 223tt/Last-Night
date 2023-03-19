@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Text>빛나는 것만 빼면 평범한 단검. 찌르고 베는데는 문제가 없다. </Text>
-	<Setting KeyCode="info_item_1001"/>
+	<Item>
+		<Text>빛나는 것만 빼면 평범한 단검. 찌르고 베는데는 문제가 없다. </Text>
+		<Setting KeyCode="info_item_1001"/>
+	</Item>
 
 	<Text>깜빡거리며 반짝이는 날카로운 단검. 스치는 것만으로도 깊게 상처가 날 것 같다.</Text>
 	<Setting KeyCode="info_item_1002"/>
