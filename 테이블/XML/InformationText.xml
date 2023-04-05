@@ -5,63 +5,103 @@
 		<Setting KeyCode="info_item_1001"/>
 	</Item>
 
-	<Text>깜빡거리며 반짝이는 날카로운 단검. 스치는 것만으로도 깊게 상처가 날 것 같다.</Text>
-	<Setting KeyCode="info_item_1002"/>
+	<Item>
+		<Text>깜빡거리며 반짝이는 날카로운 단검. 스치는 것만으로도 깊게 상처가 날 것 같다.</Text>
+		<Setting KeyCode="info_item_1002"/>
+	</Item>
 
-	<Text>음울한 회색의 단검. 밤 안개 속에 있는 것처럼 흐린 빛을 내고 있다. </Text>
-	<Setting KeyCode="info_item_1003"/>
+	<Item>
+		<Text>음울한 회색의 단검. 밤 안개 속에 있는 것처럼 흐린 빛을 내고 있다. </Text>
+		<Setting KeyCode="info_item_1003"/>
+	</Item>
 
-	<Text>더 이상 빛나지 않는 단검. 그 대신 칼날만큼은 더욱 흉흉하게 변했다.</Text>
-	<Setting KeyCode="info_item_1004"/>
+	<Item>
+		<Text>더 이상 빛나지 않는 단검. 그 대신 칼날만큼은 더욱 흉흉하게 변했다.</Text>
+		<Setting KeyCode="info_item_1004"/>
+	</Item>
 
-	<Text>새까맣게 물든 검은 단검. 찔린다면 다신 회복할 수 없는 상처가 남을 것이다.</Text>
-	<Setting KeyCode="info_item_1005"/>
+	<Item>
+		<Text>새까맣게 물든 검은 단검. 찔린다면 다신 회복할 수 없는 상처가 남을 것이다.</Text>
+		<Setting KeyCode="info_item_1005"/>
+	</Item>
 
-	<Text>귀여운 캐릭터가 그려진 과일맛 껌. 안에는 스티커도 들어있는 듯 하다.</Text>
-	<Setting KeyCode="info_item_2001"/>
+	<Item>
+		<Text>귀여운 캐릭터가 그려진 과일맛 껌. 안에는 스티커도 들어있는 듯 하다.</Text>
+		<Setting KeyCode="info_item_2001"/>
+	</Item>
 
-	<Text>하트모양 큐빅으로 엮은 팔찌. 아이들 장난감으로도 인기가 많다.</Text>
-	<Setting KeyCode="info_item_2002"/>
+	<Item>
+		<Text>하트모양 큐빅으로 엮은 팔찌. 아이들 장난감으로도 인기가 많다.</Text>
+		<Setting KeyCode="info_item_2002"/>
+	</Item>
 
-	<Text>가로로 쓰는 커다란 머리띠. 귀여운 리본 하나가 중앙에 달려있다.</Text>
-	<Setting KeyCode="info_item_2003"/>
+	<Item>
+		<Text>가로로 쓰는 커다란 머리띠. 귀여운 리본 하나가 중앙에 달려있다.</Text>
+		<Setting KeyCode="info_item_2003"/>
+	</Item>
 
-	<Text>조그맣고 귀여운 아기 인형. 나도 모르게 껴안고 싶어진다.</Text>
-	<Setting KeyCode="info_item_2004"/>
+	<Item>
+		<Text>조그맣고 귀여운 아기 인형. 나도 모르게 껴안고 싶어진다.</Text>
+		<Setting KeyCode="info_item_2004"/>
+	</Item>
 
-	<Text>보석을 작은 알갱이가 될 때까지 갈아내어 만든 것. 어째서 이런 짓을...?</Text>
-	<Setting KeyCode="info_item_2005"/>
+	<Item>
+		<Text>보석을 작은 알갱이가 될 때까지 갈아내어 만든 것. 어째서 이런 짓을...?</Text>
+		<Setting KeyCode="info_item_2005"/>
+	</Item>
 
-	<Text>윤기가 흐르는 검은 비단. 몸에만 둘러도 아름다운 원피스가 될 것 같다.</Text>
-	<Setting KeyCode="info_item_2006"/>
+	<Item>
+		<Text>윤기가 흐르는 검은 비단. 몸에만 둘러도 아름다운 원피스가 될 것 같다.</Text>
+		<Setting KeyCode="info_item_2006"/>
+	</Item>
 
-	<Text>먹구름에서 뜯어낸 것 같은 새까만 솜덩이. 아주 부드럽지만 만지면 손이 까매진다.</Text>
-	<Setting KeyCode="info_item_2004"/>
+	<Item>
+		<Text>먹구름에서 뜯어낸 것 같은 새까만 솜덩이. 아주 부드럽지만 만지면 손이 까매진다.</Text>
+		<Setting KeyCode="info_item_2004"/>
+	</Item>
 
-	<Text>조그맣고 귀여운 아기 인형. 나도 모르게 껴안고 싶어진다.</Text>
-	<Setting KeyCode="info_item_4001"/>
+	<Item>
+		<Text>조그맣고 귀여운 아기 인형. 나도 모르게 껴안고 싶어진다.</Text>
+		<Setting KeyCode="info_item_4001"/>
+	</Item>
 
-	<Text>별처럼 빛나는 정체 모를 가루. 아주 작은데도 내뿜는 빛은 꽤 강하다.</Text>
-	<Setting KeyCode="info_item_4002"/>
+	<Item>
+		<Text>별처럼 빛나는 정체 모를 가루. 아주 작은데도 내뿜는 빛은 꽤 강하다.</Text>
+		<Setting KeyCode="info_item_4002"/>
+	</Item>
 
-	<Text>달이 떴을 때 맺힌 물방울. 씁쓸하고 아린 맛이 난다.</Text>
-	<Setting KeyCode="info_item_4003"/>
+	<Item>
+		<Text>달이 떴을 때 맺힌 물방울. 씁쓸하고 아린 맛이 난다.</Text>
+		<Setting KeyCode="info_item_4003"/>
+	</Item>
 
-	<Text>홀로 떨어져있는 조그마한 눈송이. 시간이 지나면 자연스레 사라져 버린다.</Text>
-	<Setting KeyCode="info_item_4004"/>
+	<Item>
+		<Text>홀로 떨어져있는 조그마한 눈송이. 시간이 지나면 자연스레 사라져 버린다.</Text>
+		<Setting KeyCode="info_item_4004"/>
+	</Item>
 
-	<Text>주먹 크기의 단단한 광석. 강도가 높아서 여러 용도로 쓸 수 있어 보인다.</Text>
-	<Setting KeyCode="info_item_4005"/>
+	<Item>
+		<Text>주먹 크기의 단단한 광석. 강도가 높아서 여러 용도로 쓸 수 있어 보인다.</Text>
+		<Setting KeyCode="info_item_4005"/>
+	</Item>
 
-	<Text>겨울의 추위에도 아직 따듯함이 남아있는 씨앗. 봄이 온다면 다시 깨어날지도 모른다.</Text>
-	<Setting KeyCode="info_item_4006"/>
+	<Item>
+		<Text>겨울의 추위에도 아직 따듯함이 남아있는 씨앗. 봄이 온다면 다시 깨어날지도 모른다.</Text>
+		<Setting KeyCode="info_item_4006"/>
+	</Item>
 
-	<Text>누군가가 버린 작은 인형. 바닥을 굴러다녔는지 먼지로 뒤덮여있어 더럽다.</Text>
-	<Setting KeyCode="info_item_4007"/>
+	<Item>
+		<Text>누군가가 버린 작은 인형. 바닥을 굴러다녔는지 먼지로 뒤덮여있어 더럽다.</Text>
+		<Setting KeyCode="info_item_4007"/>
+	</Item>
 
-	<Text>꽁꽁 얼어버린 나뭇잎. 약간만 힘을 줘도 바스라지니 주의해서 다뤄야한다. </Text>
-	<Setting KeyCode="info_item_4008"/>
+	<Item>
+		<Text>꽁꽁 얼어버린 나뭇잎. 약간만 힘을 줘도 바스라지니 주의해서 다뤄야한다. </Text>
+		<Setting KeyCode="info_item_4008"/>
+	</Item>
 
-	<Text>마음을 전하기 위해 적은 누군가의 편지. 전하려던 건 어떤 마음이었을까.</Text>
-	<Setting KeyCode="info_item_4009"/>
+	<Item>
+		<Text>마음을 전하기 위해 적은 누군가의 편지. 전하려던 건 어떤 마음이었을까.</Text>
+		<Setting KeyCode="info_item_4009"/>
+	</Item>
 </Text>
